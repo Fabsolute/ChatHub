@@ -1,0 +1,9 @@
+{application, chathub, [
+  {description, "Chathub"},
+  {vsn, "0.0.1"},
+  {modules, []},
+  {registered, []},
+  {applications, []},
+  {mod, {chathub_app, []}},
+  {env, []}
+]}.
